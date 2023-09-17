@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kaan Samet GÜLER</h1>
 <h3 align="center">An Unreal Engine 5 programmer with a solid mathematical background.</h3>
 
-- 🔭 I’m currently working on [SlasherFullCppDemo](https://github.com/KaanSamet/SlasherFullCppDemo/tree/main/KaanS_Guler_Demos)
+🔭 I’m currently working on [SlasherFullCppDemo](https://github.com/KaanSamet/SlasherFullCppDemo/tree/main/KaanS_Guler_Demos)
 
 <h3 align="left">Connect with me :handshake: :</h3>
 <p align="left">
